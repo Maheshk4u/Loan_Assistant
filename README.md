@@ -1,1 +1,1 @@
-# Loan_Assistant
+# loan-assistant
